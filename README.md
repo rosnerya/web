@@ -1,9 +1,11 @@
 # WEB Project 2019 Semester B - BGU
 **Author: Yarden Rosner**
+
 **Repository:
-[http://github.com/rosnerya/web](http://github.com/rosnerya/web)*
-*
+[http://github.com/rosnerya/web](http://github.com/rosnerya/web)**
+
 **Version: 1.0**
+
 ## Project subject
 > מוצר איום
 ## Project description
